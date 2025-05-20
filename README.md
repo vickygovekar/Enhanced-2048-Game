@@ -44,8 +44,8 @@ An **interactive**, feature-rich version of the classic 2048 game built with Pyt
 1. **Clone** this repository:
 
    ```bash
-   git clone https://github.com/your-username/enhanced-2048.git
-   cd enhanced-2048
+   git clone https://github.com/vickygovekar/enhanced-2048-game.git
+   cd enhanced-2048-game
    ```
 2. **Install** dependencies (if any):
 
